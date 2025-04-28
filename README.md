@@ -41,8 +41,7 @@ An Arduino-based music player using **DFPlayer Mini**, an **OLED display**, and 
   - Hold → Volume up/down
 
 ## Notes
-- Max volume: 30
 - MP3s must be named `0001.mp3`, `0002.mp3`, etc.
 
-- ## License
+## License
 This project is licensed under the MIT License.
